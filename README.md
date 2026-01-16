@@ -1,6 +1,5 @@
 Hi, im Noach one devoloper,
 this is my personal and work repository, her i go put my programs and studys ...
-if you need contact, my email is noachdev@jitjat.org 
 Thanks for reading
 
 <!---
